@@ -8,4 +8,4 @@ This software depends on `curl` utility.
 
 `mget` check for content length and make several parallel streams, which download parts of target content. By default target file is devided into 100Mb chunks.
 
-In test I downloaded 1.7Gb ISO file in aproxeymately one minute, while in single mode it was doanloaded in six-seven minutes.
+In test I downloaded 1.7Gb ISO file in approximately one minute, while in single mode it was doanloaded in six-seven minutes.
