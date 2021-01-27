@@ -12,4 +12,4 @@ In test I downloaded 1.7Gb ISO file in approximately one minute, while in single
 
 ## Disclaimer
 
-There is no error control at all. Please check finsl data integrity with checksums.
+There is no error control at all. Please check final data integrity with checksums.
